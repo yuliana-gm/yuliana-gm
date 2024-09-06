@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuliana-gm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- I'm a general web development intern. 
+- 👀 I’m interested in learning about fullstack development.
 
 <!---
 yuliana-gm/yuliana-gm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
